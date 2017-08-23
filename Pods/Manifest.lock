@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - JCore (1.1.5)
+  - JPush (3.0.6):
+    - JCore (~> 1.1.1)
+  - LSLaunchAD (0.0.3):
+    - SDWebImage
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MXNavigationBarManager (1.1)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - WechatOpenSDK (1.7.8)
+
+DEPENDENCIES:
+  - AFNetworking
+  - JPush
+  - LSLaunchAD
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - MXNavigationBarManager
+  - SDWebImage
+  - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  JCore: 9bd9c770c877c583d98b90a68792b8361974c231
+  JPush: c41be50eb1a574a66aeb68d237f00a4ec6ec3a82
+  LSLaunchAD: b34f434d4d23a8f5b47950431f7ed301d549e061
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MXNavigationBarManager: ce9f1a5ae748ec1d117e9ac4e08795192e0216b3
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  WechatOpenSDK: ad1e7be1b66416df847ac50830c798b70c9e365e
+
+PODFILE CHECKSUM: db192239f96524427bfe86ae5525255fc526c28e
+
+COCOAPODS: 1.1.1
